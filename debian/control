@@ -1,0 +1,12 @@
+Source: ros-jade-image-cb-detector
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-actionlib, ros-jade-actionlib-msgs, ros-jade-calibration-msgs, ros-jade-catkin, ros-jade-cv-bridge, ros-jade-geometry-msgs, ros-jade-image-transport, ros-jade-message-filters, ros-jade-message-generation, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-std-msgs
+Homepage: http://ros.org/wiki/image_cb_detector
+Standards-Version: 3.9.2
+
+Package: ros-jade-image-cb-detector
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-actionlib, ros-jade-actionlib-msgs, ros-jade-calibration-msgs, ros-jade-cv-bridge, ros-jade-geometry-msgs, ros-jade-image-transport, ros-jade-message-filters, ros-jade-message-runtime, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-std-msgs
+Description: Provide a node that extracts checkerboard corners from ROS images. This package is still experimental and unstable. Expect its APIs to change.
