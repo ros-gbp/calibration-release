@@ -1,0 +1,12 @@
+Source: ros-jade-calibration-msgs
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-geometry-msgs, ros-jade-message-generation, ros-jade-sensor-msgs, ros-jade-std-msgs
+Homepage: http://www.ros.org/wiki/calibration_msgs
+Standards-Version: 3.9.2
+
+Package: ros-jade-calibration-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-geometry-msgs, ros-jade-message-runtime, ros-jade-sensor-msgs, ros-jade-std-msgs
+Description: This package defines messages for storing calibration samples to be used in full robot calibration procedures. This package is still unstable. Expect the messages to change.
