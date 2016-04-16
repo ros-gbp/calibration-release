@@ -1,0 +1,13 @@
+Source: ros-kinetic-calibration
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://www.ros.org/wiki/ros_comm
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-calibration
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-calibration-estimation, ros-kinetic-calibration-launch, ros-kinetic-calibration-msgs, ros-kinetic-image-cb-detector, ros-kinetic-interval-intersection, ros-kinetic-joint-states-settler, ros-kinetic-laser-cb-detector, ros-kinetic-monocam-settler, ros-kinetic-settlerlib
+Description: Provides a toolchain running through the robot calibration process.
+ This involves capturing calibration data, estimating parameters, and then updating the URDF.
