@@ -1,0 +1,12 @@
+Source: ros-kinetic-calibration-launch
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://ros.org/wiki/calibration_launch
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-calibration-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-interval-intersection, ros-kinetic-joint-states-settler, ros-kinetic-laser-cb-detector, ros-kinetic-monocam-settler, ros-kinetic-urdfdom-py
+Description: This package contains a collection of launch files that can be helpful in configuring the calibration stack to run on your robot.
