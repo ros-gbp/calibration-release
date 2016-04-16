@@ -1,0 +1,12 @@
+Source: ros-indigo-calibration-launch
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/calibration_launch
+Standards-Version: 3.9.2
+
+Package: ros-indigo-calibration-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-interval-intersection, ros-indigo-joint-states-settler, ros-indigo-laser-cb-detector, ros-indigo-monocam-settler, ros-indigo-urdfdom-py
+Description: This package contains a collection of launch files that can be helpful in configuring the calibration stack to run on your robot.
