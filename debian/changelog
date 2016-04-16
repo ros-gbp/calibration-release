@@ -1,0 +1,242 @@
+ros-kinetic-calibration-setup-helper (0.10.14-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 15 Apr 2016 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.13-0wily) wily; urgency=high
+
+  * add copyright notes
+  * set k-oakda as maintainer/author
+  * add calibration_setup_helper program
+  * Contributors: Kei Okada
+  * add copyright notes
+  * set k-oakda as maintainer/author
+  * add calibration_setup_helper program
+  * Contributors: Kei Okada
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 20 Dec 2014 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.12-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 20 Sep 2014 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.11-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 19 Sep 2014 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.10-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Mon, 05 May 2014 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.9-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 08 Apr 2014 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.8-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 06 Mar 2014 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.7-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 14 Jan 2014 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.6-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 07 Dec 2013 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.5-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 30 Nov 2013 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.4-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 29 Nov 2013 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.3-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sun, 08 Sep 2013 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.2-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 29 Aug 2013 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.1-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 28 Aug 2013 16:21:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.10.0-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 26 Jul 2013 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.29-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 28 Aug 2013 16:59:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.28-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 02 Apr 2013 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.27-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sun, 24 Mar 2013 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.26-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 20 Mar 2013 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.25-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 20 Feb 2013 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.24-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 27 Dec 2012 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.23-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 15 Dec 2012 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.22-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 13 Dec 2012 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.21-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 31 Oct 2012 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.20-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 23:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.19-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 09:35:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.18-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 09:09:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.17-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 08:57:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.16-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 08:41:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.15-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 08:01:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.14-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Mon, 29 Oct 2012 16:19:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.13-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Mon, 29 Oct 2012 15:34:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.12-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 27 Oct 2012 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.11-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 26 Oct 2012 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.10-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 17 Oct 2012 22:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.8-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 17 Oct 2012 13:23:14 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.7-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 17 Oct 2012 13:00:00 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.4-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 29 Aug 2012 11:46:34 -0000
+
+ros-kinetic-calibration-setup-helper (0.9.3-0wily) wily; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Mon, 27 Aug 2012 22:00:00 -0000
+
+
