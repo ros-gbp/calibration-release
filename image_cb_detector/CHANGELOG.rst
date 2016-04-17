@@ -2,6 +2,11 @@
 Changelog for package image_cb_detector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.10.14 (2016-04-16)
+--------------------
+* simplify OpenCV3 dependency
+* Contributors: Vincent Rabaud
+
 0.10.13 (2014-12-21)
 --------------------
 
