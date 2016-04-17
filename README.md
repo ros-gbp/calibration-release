@@ -1,3 +1,37 @@
+## calibration (jade) - 0.10.14-0
+
+The packages in the `calibration` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade calibration` on `Sun, 17 Apr 2016 09:40:41 -0000`
+
+These packages were released:
+- `calibration`
+- `calibration_estimation`
+- `calibration_launch`
+- `calibration_msgs`
+- `calibration_setup_helper`
+- `image_cb_detector`
+- `interval_intersection`
+- `joint_states_settler`
+- `laser_cb_detector`
+- `monocam_settler`
+- `settlerlib`
+
+Version of package(s) in repository `calibration`:
+
+- upstream repository: http://github.com/ros-perception/calibration.git
+- release repository: https://github.com/ros-gbp/calibration-release.git
+- rosdistro version: `0.10.13-0`
+- old version: `0.10.13-0`
+- new version: `0.10.14-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## calibration (indigo) - 0.10.14-0
 
 The packages in the `calibration` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo calibration` on `Sat, 16 Apr 2016 16:30:10 -0000`
