@@ -1,0 +1,13 @@
+Source: ros-jade-calibration-estimation
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin (>= 0.5.68)
+Homepage: http://ros.org/wiki/calibration_estimation
+Standards-Version: 3.9.2
+
+Package: ros-jade-calibration-estimation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-matplotlib, python-scipy, ros-jade-calibration-msgs, ros-jade-python-orocos-kdl, ros-jade-rospy, ros-jade-rostest, ros-jade-sensor-msgs, ros-jade-urdfdom-py, ros-jade-visualization-msgs
+Description: Runs an optimization to estimate the a robot's kinematic parameters.
+ This package is a generic rewrite of pr2_calibration_estimation.
