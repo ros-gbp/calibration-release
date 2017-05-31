@@ -1,0 +1,13 @@
+Source: ros-lunar-calibration-estimation
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin (>= 0.5.68)
+Homepage: http://ros.org/wiki/calibration_estimation
+Standards-Version: 3.9.2
+
+Package: ros-lunar-calibration-estimation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-matplotlib, python-scipy, ros-lunar-calibration-msgs, ros-lunar-python-orocos-kdl, ros-lunar-rospy, ros-lunar-rostest, ros-lunar-sensor-msgs, ros-lunar-urdfdom-py, ros-lunar-visualization-msgs
+Description: Runs an optimization to estimate the a robot's kinematic parameters.
+ This package is a generic rewrite of pr2_calibration_estimation.
