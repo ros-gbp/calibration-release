@@ -1,3 +1,37 @@
+## calibration (lunar) - 0.10.14-0
+
+The packages in the `calibration` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar calibration` on `Wed, 31 May 2017 20:40:34 -0000`
+
+These packages were released:
+- `calibration`
+- `calibration_estimation`
+- `calibration_launch`
+- `calibration_msgs`
+- `calibration_setup_helper`
+- `image_cb_detector`
+- `interval_intersection`
+- `joint_states_settler`
+- `laser_cb_detector`
+- `monocam_settler`
+- `settlerlib`
+
+Version of package(s) in repository `calibration`:
+
+- upstream repository: http://github.com/ros-perception/calibration.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.10.14-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.4`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## calibration (jade) - 0.10.14-0
 
 The packages in the `calibration` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade calibration` on `Sun, 17 Apr 2016 09:40:41 -0000`
