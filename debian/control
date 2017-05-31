@@ -1,0 +1,13 @@
+Source: ros-lunar-calibration-setup-helper
+Section: misc
+Priority: extra
+Maintainer: Kei Okada <kei.okada@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: http://ros.org/wiki/calibration_setup_helper
+Standards-Version: 3.9.2
+
+Package: ros-lunar-calibration-setup-helper
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-calibration-launch
+Description: This package contains a script to generate calibration launch and configurationfiles for your robot.
+ which is based on Michael Ferguson's calibration code
