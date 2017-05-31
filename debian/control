@@ -1,0 +1,13 @@
+Source: ros-lunar-monocam-settler
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-actionlib, ros-lunar-actionlib-msgs, ros-lunar-catkin (>= 0.5.68), ros-lunar-rosconsole, ros-lunar-roscpp-serialization, ros-lunar-settlerlib, ros-lunar-std-msgs
+Homepage: http://www.ros.org/wiki/monocam_settler
+Standards-Version: 3.9.2
+
+Package: ros-lunar-monocam-settler
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-actionlib, ros-lunar-actionlib-msgs, ros-lunar-rosconsole, ros-lunar-roscpp-serialization, ros-lunar-settlerlib, ros-lunar-std-msgs
+Description: Listens on a ImageFeatures topic, and waits for the data to settle.
+ This package is experimental and unstable. Expect its APIs to change.
