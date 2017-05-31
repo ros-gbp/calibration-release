@@ -1,0 +1,13 @@
+Source: ros-lunar-calibration
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: http://www.ros.org/wiki/ros_comm
+Standards-Version: 3.9.2
+
+Package: ros-lunar-calibration
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-calibration-estimation, ros-lunar-calibration-launch, ros-lunar-calibration-msgs, ros-lunar-image-cb-detector, ros-lunar-interval-intersection, ros-lunar-joint-states-settler, ros-lunar-laser-cb-detector, ros-lunar-monocam-settler, ros-lunar-settlerlib
+Description: Provides a toolchain running through the robot calibration process.
+ This involves capturing calibration data, estimating parameters, and then updating the URDF.
