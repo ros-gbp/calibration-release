@@ -1,0 +1,13 @@
+Source: ros-lunar-settlerlib
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-lunar-calibration-msgs, ros-lunar-catkin (>= 0.5.68), ros-lunar-rosconsole, ros-lunar-rostime
+Homepage: http://www.ros.org/wiki/settlerlib
+Standards-Version: 3.9.2
+
+Package: ros-lunar-settlerlib
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-lunar-calibration-msgs, ros-lunar-rosconsole, ros-lunar-rostime
+Description: Defines helper functions and routines that greatly help when trying to create a settler for a specific sensor channel.
+ This package is experimental and unstable. Expect its APIs to change.
