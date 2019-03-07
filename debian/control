@@ -1,0 +1,13 @@
+Source: ros-melodic-calibration
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://www.ros.org/wiki/ros_comm
+Standards-Version: 3.9.2
+
+Package: ros-melodic-calibration
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-calibration-estimation, ros-melodic-calibration-launch, ros-melodic-calibration-msgs, ros-melodic-image-cb-detector, ros-melodic-interval-intersection, ros-melodic-joint-states-settler, ros-melodic-laser-cb-detector, ros-melodic-monocam-settler, ros-melodic-settlerlib
+Description: Provides a toolchain running through the robot calibration process.
+ This involves capturing calibration data, estimating parameters, and then updating the URDF.
