@@ -1,0 +1,242 @@
+ros-melodic-calibration-setup-helper (0.10.14-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 16 Apr 2016 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.13-0stretch) stretch; urgency=high
+
+  * add copyright notes
+  * set k-oakda as maintainer/author
+  * add calibration_setup_helper program
+  * Contributors: Kei Okada
+  * add copyright notes
+  * set k-oakda as maintainer/author
+  * add calibration_setup_helper program
+  * Contributors: Kei Okada
+
+ -- Kei Okada <kei.okada@gmail.com>  Sun, 21 Dec 2014 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.12-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sun, 21 Sep 2014 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.11-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 20 Sep 2014 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.10-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 06 May 2014 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.9-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 09 Apr 2014 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.8-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 07 Mar 2014 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.7-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 15 Jan 2014 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.6-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sun, 08 Dec 2013 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.5-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sun, 01 Dec 2013 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.4-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 30 Nov 2013 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.3-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Mon, 09 Sep 2013 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.2-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 30 Aug 2013 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.1-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 29 Aug 2013 01:21:00 -0000
+
+ros-melodic-calibration-setup-helper (0.10.0-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 27 Jul 2013 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.29-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 29 Aug 2013 01:59:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.28-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 03 Apr 2013 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.27-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Mon, 25 Mar 2013 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.26-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 21 Mar 2013 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.25-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 21 Feb 2013 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.24-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 28 Dec 2012 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.23-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sun, 16 Dec 2012 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.22-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Fri, 14 Dec 2012 08:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.21-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 01 Nov 2012 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.20-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 31 Oct 2012 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.19-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 17:35:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.18-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 17:09:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.17-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 16:57:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.16-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 16:41:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.15-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 16:01:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.14-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 30 Oct 2012 00:19:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.13-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Mon, 29 Oct 2012 23:34:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.12-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sun, 28 Oct 2012 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.11-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Sat, 27 Oct 2012 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.10-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Thu, 18 Oct 2012 07:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.8-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 17 Oct 2012 22:23:14 -0000
+
+ros-melodic-calibration-setup-helper (0.9.7-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 17 Oct 2012 22:00:00 -0000
+
+ros-melodic-calibration-setup-helper (0.9.4-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Wed, 29 Aug 2012 20:46:34 -0000
+
+ros-melodic-calibration-setup-helper (0.9.3-0stretch) stretch; urgency=high
+
+
+
+ -- Kei Okada <kei.okada@gmail.com>  Tue, 28 Aug 2012 07:00:00 -0000
+
+
