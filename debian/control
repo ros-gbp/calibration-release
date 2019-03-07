@@ -1,0 +1,13 @@
+Source: ros-melodic-monocam-settler
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-catkin (>= 0.5.68), ros-melodic-rosconsole, ros-melodic-roscpp-serialization, ros-melodic-settlerlib, ros-melodic-std-msgs
+Homepage: http://www.ros.org/wiki/monocam_settler
+Standards-Version: 3.9.2
+
+Package: ros-melodic-monocam-settler
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-rosconsole, ros-melodic-roscpp-serialization, ros-melodic-settlerlib, ros-melodic-std-msgs
+Description: Listens on a ImageFeatures topic, and waits for the data to settle.
+ This package is experimental and unstable. Expect its APIs to change.
