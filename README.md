@@ -1,3 +1,37 @@
+## calibration (melodic) - 0.10.14-0
+
+The packages in the `calibration` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic calibration` on `Thu, 07 Mar 2019 10:19:14 -0000`
+
+These packages were released:
+- `calibration`
+- `calibration_estimation`
+- `calibration_launch`
+- `calibration_msgs`
+- `calibration_setup_helper`
+- `image_cb_detector`
+- `interval_intersection`
+- `joint_states_settler`
+- `laser_cb_detector`
+- `monocam_settler`
+- `settlerlib`
+
+Version of package(s) in repository `calibration`:
+
+- upstream repository: http://github.com/ros-perception/calibration.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.10.14-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## calibration (lunar) - 0.10.14-0
 
 The packages in the `calibration` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar calibration` on `Wed, 31 May 2017 20:40:34 -0000`
