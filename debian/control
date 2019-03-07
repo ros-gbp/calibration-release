@@ -1,0 +1,13 @@
+Source: ros-melodic-settlerlib
+Section: misc
+Priority: extra
+Maintainer: Vincent Rabaud <vincent.rabaud@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-melodic-calibration-msgs, ros-melodic-catkin (>= 0.5.68), ros-melodic-rosconsole, ros-melodic-rostime
+Homepage: http://www.ros.org/wiki/settlerlib
+Standards-Version: 3.9.2
+
+Package: ros-melodic-settlerlib
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-melodic-calibration-msgs, ros-melodic-rosconsole, ros-melodic-rostime
+Description: Defines helper functions and routines that greatly help when trying to create a settler for a specific sensor channel.
+ This package is experimental and unstable. Expect its APIs to change.
