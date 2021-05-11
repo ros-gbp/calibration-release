@@ -1,0 +1,53 @@
+ros-noetic-laser-cb-detector (0.10.15-1focal) focal; urgency=high
+
+  * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+    Noetic devel
+  * fixes for compiler warnings CMP0048 and CMP0046
+  * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+  * fixed opencv issue with laser_cb test
+  * fixed unit tests for compile/testing in focal/noetic/opencv4
+  * Contributors: Dave Feil-Seifer
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Tue, 11 May 2021 07:00:00 -0000
+
+ros-noetic-laser-cb-detector (0.10.14-1focal) focal; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 16 Apr 2016 07:00:00 -0000
+
+ros-noetic-laser-cb-detector (0.10.13-1focal) focal; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 21 Dec 2014 08:00:00 -0000
+
+ros-noetic-laser-cb-detector (0.10.12-1focal) focal; urgency=high
+
+  * use a non OpenCV 1 API
+  * Contributors: Vincent Rabaud
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 21 Sep 2014 07:00:00 -0000
+
+ros-noetic-laser-cb-detector (0.10.11-1focal) focal; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 20 Sep 2014 07:00:00 -0000
+
+ros-noetic-laser-cb-detector (0.10.9-1focal) focal; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Wed, 09 Apr 2014 07:00:00 -0000
+
+ros-noetic-laser-cb-detector (0.10.8-1focal) focal; urgency=high
+
+  * check for CATKIN_ENABLE_TESTING
+  * no need to depend on opencv2 as we depend on cv_bridge
+    This is useful to only have one branch for both hydro and indigo
+  * Contributors: Lukas Bulwahn, Vincent Rabaud
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Fri, 07 Mar 2014 08:00:00 -0000
+
+
