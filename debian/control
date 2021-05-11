@@ -1,0 +1,13 @@
+Source: ros-noetic-calibration-setup-helper
+Section: misc
+Priority: optional
+Maintainer: Kei Okada <kei.okada@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://ros.org/wiki/calibration_setup_helper
+Standards-Version: 3.9.2
+
+Package: ros-noetic-calibration-setup-helper
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-calibration-launch
+Description: This package contains a script to generate calibration launch and configurationfiles for your robot.
+ which is based on Michael Ferguson's calibration code
