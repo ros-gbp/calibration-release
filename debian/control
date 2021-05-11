@@ -1,0 +1,13 @@
+Source: ros-noetic-image-cb-detector
+Section: misc
+Priority: optional
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-calibration-msgs, ros-noetic-catkin, ros-noetic-cv-bridge, ros-noetic-geometry-msgs, ros-noetic-image-transport, ros-noetic-message-filters, ros-noetic-message-generation, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-std-msgs
+Homepage: http://ros.org/wiki/image_cb_detector
+Standards-Version: 3.9.2
+
+Package: ros-noetic-image-cb-detector
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-calibration-msgs, ros-noetic-cv-bridge, ros-noetic-geometry-msgs, ros-noetic-image-transport, ros-noetic-message-filters, ros-noetic-message-runtime, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-std-msgs
+Description: Provide a node that extracts checkerboard corners from ROS images.
+ This package is still experimental and unstable. Expect its APIs to change.
