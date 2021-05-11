@@ -1,0 +1,13 @@
+Source: ros-noetic-calibration-estimation
+Section: misc
+Priority: optional
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-calibration-msgs, ros-noetic-catkin (>= 0.5.68)
+Homepage: http://ros.org/wiki/calibration_estimation
+Standards-Version: 3.9.2
+
+Package: ros-noetic-calibration-estimation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-matplotlib, python3-pykdl, python3-scipy, ros-noetic-calibration-msgs, ros-noetic-rospy, ros-noetic-rostest, ros-noetic-sensor-msgs, ros-noetic-urdfdom-py, ros-noetic-visualization-msgs
+Description: Runs an optimization to estimate the a robot's kinematic parameters.
+ This package is a generic rewrite of pr2_calibration_estimation.
