@@ -1,0 +1,12 @@
+Source: ros-noetic-calibration-launch
+Section: misc
+Priority: optional
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://ros.org/wiki/calibration_launch
+Standards-Version: 3.9.2
+
+Package: ros-noetic-calibration-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-interval-intersection, ros-noetic-joint-states-settler, ros-noetic-laser-cb-detector, ros-noetic-monocam-settler, ros-noetic-urdfdom-py
+Description: This package contains a collection of launch files that can be helpful in configuring the calibration stack to run on your robot.
