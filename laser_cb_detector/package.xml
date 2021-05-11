@@ -1,12 +1,12 @@
 <package>
   <name>laser_cb_detector</name>
-  <version>0.10.14</version>
+  <version>0.10.15</version>
   <description>
      Extracts checkerboard corners from a dense laser snapshot.
      This package is experimental and unstable. Expect its APIs to change.
   </description>
   <author>Vijay Pradeep</author>
-  <maintainer email="vincent.rabaud@gmail.com">Vincent Rabaud</maintainer>
+  <maintainer email="david.feilseifer@gmail.com">David Feil-Seifer</maintainer>
   <license>BSD</license>
   <url>http://www.ros.org/wiki/laser_cb_detector</url>
 

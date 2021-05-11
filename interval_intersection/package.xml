@@ -1,13 +1,13 @@
 <package>
   <name>interval_intersection</name>
-  <version>0.10.14</version>
+  <version>0.10.15</version>
   <description>
     Tools for calculating the intersection of interval messages coming
     in on several topics. This package is experimental and unstable.
     Expect its APIs to change.
   </description>
   <author>Romain Thibaux</author>
-  <maintainer email="vincent.rabaud@gmail.com">Vincent Rabaud</maintainer>
+  <maintainer email="david.feilseifer@gmail.com">David Feil-Seifer</maintainer>
   <license>BSD</license>
   <url>http://www.ros.org/wiki/interval_intersection</url>
 
