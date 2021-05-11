@@ -1,0 +1,13 @@
+Source: ros-noetic-interval-intersection
+Section: misc
+Priority: optional
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-calibration-msgs, ros-noetic-catkin (>= 0.5.68), ros-noetic-geometry-msgs, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-roscpp-serialization, ros-noetic-rostime, ros-noetic-std-msgs
+Homepage: http://www.ros.org/wiki/interval_intersection
+Standards-Version: 3.9.2
+
+Package: ros-noetic-interval-intersection
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-noetic-actionlib, ros-noetic-actionlib-msgs, ros-noetic-calibration-msgs, ros-noetic-geometry-msgs, ros-noetic-rosconsole, ros-noetic-roscpp, ros-noetic-roscpp-serialization, ros-noetic-rostime, ros-noetic-std-msgs
+Description: Tools for calculating the intersection of interval messages coming in on several topics.
+ This package is experimental and unstable. Expect its APIs to change.
