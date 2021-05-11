@@ -1,3 +1,37 @@
+## calibration (noetic) - 0.10.15-1
+
+The packages in the `calibration` repository were released into the `noetic` distro by running `/usr/bin/bloom-release calibration --rosdistro noetic --track noetic` on `Tue, 11 May 2021 23:37:45 -0000`
+
+These packages were released:
+- `calibration`
+- `calibration_estimation`
+- `calibration_launch`
+- `calibration_msgs`
+- `calibration_setup_helper`
+- `image_cb_detector`
+- `interval_intersection`
+- `joint_states_settler`
+- `laser_cb_detector`
+- `monocam_settler`
+- `settlerlib`
+
+Version of package(s) in repository `calibration`:
+
+- upstream repository: http://github.com/ros-perception/calibration.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.10.15-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## calibration (melodic) - 0.10.14-0
 
 The packages in the `calibration` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic calibration` on `Thu, 07 Mar 2019 10:19:14 -0000`
