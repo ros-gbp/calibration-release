@@ -1,0 +1,44 @@
+ros-noetic-calibration (0.10.15-1buster) buster; urgency=high
+
+  * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+  * Contributors: Dave Feil-Seifer
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Tue, 11 May 2021 07:00:00 -0000
+
+ros-noetic-calibration (0.10.14-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 16 Apr 2016 07:00:00 -0000
+
+ros-noetic-calibration (0.10.13-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 21 Dec 2014 08:00:00 -0000
+
+ros-noetic-calibration (0.10.12-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 21 Sep 2014 07:00:00 -0000
+
+ros-noetic-calibration (0.10.11-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 20 Sep 2014 07:00:00 -0000
+
+ros-noetic-calibration (0.10.9-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Wed, 09 Apr 2014 07:00:00 -0000
+
+ros-noetic-calibration (0.10.8-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Fri, 07 Mar 2014 08:00:00 -0000
+
+
