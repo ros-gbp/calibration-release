@@ -1,0 +1,68 @@
+ros-noetic-calibration-launch (0.10.15-1buster) buster; urgency=high
+
+  * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+    Noetic devel
+  * fixed python3 compatibility issues
+  * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+  * Contributors: Dave Feil-Seifer
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Tue, 11 May 2021 07:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.14-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 16 Apr 2016 07:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.13-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 21 Dec 2014 08:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.12-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 21 Sep 2014 07:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.11-1buster) buster; urgency=high
+
+  * change launch file location
+  * add warning when no sample is found
+  * Contributors: Kei Okada
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 20 Sep 2014 07:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.10-1buster) buster; urgency=high
+
+  * Export architecture_independent flag in package.xml
+  * Contributors: Scott K Logan
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Tue, 06 May 2014 07:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.9-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Wed, 09 Apr 2014 07:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.8-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Fri, 07 Mar 2014 08:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.5-1buster) buster; urgency=high
+
+  * fix bad install
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 01 Dec 2013 08:00:00 -0000
+
+ros-noetic-calibration-launch (0.10.4-1buster) buster; urgency=high
+
+  * fix calibration_executive to work with the new urdf_python #20
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 30 Nov 2013 08:00:00 -0000
+
+
