@@ -1,0 +1,53 @@
+ros-noetic-interval-intersection (0.10.15-1buster) buster; urgency=high
+
+  * Merge pull request #47 <https://github.com/ros-perception/calibration/issues/47> from PR2-prime/noetic-devel
+    Noetic devel
+  * fixes for compiler warnings CMP0048 and CMP0046
+  * update maintainer for most packages; first try at setup for travis testing (#46 <https://github.com/ros-perception/calibration/issues/46>)
+  * Merge pull request #41 <https://github.com/ros-perception/calibration/issues/41> from Hodorgasm/hydro
+    Fix "stdlib.h: No such file or directory" errors in GCC-6
+  * Fix "stdlib.h: No such file or directory" errors in GCC-6
+    Including '-isystem /usr/include' breaks building with GCC-6.
+    See https://gcc.gnu.org/bugzilla/show_bug.cgi?id=70129
+  * Contributors: Dave Feil-Seifer, Hodorgasm, Vincent Rabaud
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Tue, 11 May 2021 07:00:00 -0000
+
+ros-noetic-interval-intersection (0.10.14-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 16 Apr 2016 07:00:00 -0000
+
+ros-noetic-interval-intersection (0.10.13-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 21 Dec 2014 08:00:00 -0000
+
+ros-noetic-interval-intersection (0.10.12-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sun, 21 Sep 2014 07:00:00 -0000
+
+ros-noetic-interval-intersection (0.10.11-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Sat, 20 Sep 2014 07:00:00 -0000
+
+ros-noetic-interval-intersection (0.10.9-1buster) buster; urgency=high
+
+
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Wed, 09 Apr 2014 07:00:00 -0000
+
+ros-noetic-interval-intersection (0.10.8-1buster) buster; urgency=high
+
+  * check for CATKIN_ENABLE_TESTING
+  * Contributors: Lukas Bulwahn
+
+ -- David Feil-Seifer <david.feilseifer@gmail.com>  Fri, 07 Mar 2014 08:00:00 -0000
+
+
