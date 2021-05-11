@@ -1,0 +1,13 @@
+Source: ros-noetic-calibration-msgs
+Section: misc
+Priority: optional
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-sensor-msgs, ros-noetic-std-msgs
+Homepage: http://www.ros.org/wiki/calibration_msgs
+Standards-Version: 3.9.2
+
+Package: ros-noetic-calibration-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-sensor-msgs, ros-noetic-std-msgs
+Description: This package defines messages for storing calibration samples to be used in full robot calibration procedures.
+ This package is still unstable. Expect the messages to change.
