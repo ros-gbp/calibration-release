@@ -1,0 +1,13 @@
+Source: ros-noetic-calibration
+Section: misc
+Priority: optional
+Maintainer: David Feil-Seifer <david.feilseifer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://www.ros.org/wiki/ros_comm
+Standards-Version: 3.9.2
+
+Package: ros-noetic-calibration
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-calibration-estimation, ros-noetic-calibration-launch, ros-noetic-calibration-msgs, ros-noetic-image-cb-detector, ros-noetic-interval-intersection, ros-noetic-joint-states-settler, ros-noetic-laser-cb-detector, ros-noetic-monocam-settler, ros-noetic-settlerlib
+Description: Provides a toolchain running through the robot calibration process.
+ This involves capturing calibration data, estimating parameters, and then updating the URDF.
